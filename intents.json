@@ -1,0 +1,158 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good day",
+        "Is anyone there?",
+        "How are you?",
+        "Howdy",
+        "Wassup",
+        "What's up?"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hi there! How can I help you?",
+        "Greetings! What information are you looking for?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "Take care",
+        "Adios"
+      ],
+      "responses": [
+        "Goodbye! Feel free to reach out if you have more questions.",
+        "See you later! Take care.",
+        "Thank you for visiting! Goodbye."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "I appreciate it",
+        "That's helpful",
+        "Thx"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime! Feel free to ask more questions."
+      ]
+    },
+    {
+      "tag": "about_disease",
+      "patterns": [
+        "What is Niemann-Pick disease?",
+        "Tell me about Niemann-Pick",
+        "Can you explain Niemann-Pick disease?",
+        "What are the types of Niemann-Pick disease?"
+      ],
+      "responses": [
+        "Niemann-Pick disease is a group of inherited metabolic disorders in which harmful amounts of lipids accumulate in various organs. The types are Type A, B, C1, and C2."
+      ]
+    },
+    {
+      "tag": "history",
+      "patterns": [
+        "What is the history of Niemann-Pick disease?",
+        "Tell me about Niemann-Pick history",
+        "Can you explain the history of Niemann-Pick disease?",
+        "When was Niemann-Pick disease discovered?",
+        "History",
+        "Discovery"
+      ],
+      "responses": [
+        "The history of Niemann-Pick disease (NPD) began in 1914 when German pediatrician Albert Niemann described an Ashkenazi Jewish infant with the disease:\n\t1914\n\tNiemann described the infant's brain and nervous system impairment, jaundice, swollen lymph nodes, enlarged liver and spleen, and premature death at 18 months. This patient is now known as having type A NPD.\n\t1920s\n\tGerman pathologist Luddwick Pick studied tissues from children with similar lipid storage disorders, providing evidence of a new disorder"
+      ]
+    },
+    {
+      "tag": "symptoms",
+      "patterns": [
+        "What are the symptoms of Niemann-Pick disease?",
+        "How do I know if someone has Niemann-Pick?",
+        "Signs of Niemann-Pick disease",
+        "How do I know that someone has Niemann",
+        "Symptoms",
+        "Signs",
+        "Indications"
+      ],
+      "responses": [
+        "Symptoms of Niemann-Pick disease can vary by type but may include difficulty swallowing, loss of muscle tone, enlargement of the liver and spleen, and neurological problems."
+      ]
+    },
+    {
+      "tag": "diagnosis",
+      "patterns": [
+        "How is Niemann-Pick disease diagnosed?",
+        "What tests are used for diagnosing Niemann-Pick?",
+        "Diagnosis of Niemann-Pick disease",
+        "How does a doctor diagnose Niemann"
+      ],
+      "responses": [
+        "Diagnosis of Niemann-Pick disease often involves genetic testing, biopsy of the liver or bone marrow, and enzyme assays to detect deficient enzyme activity."
+      ]
+    },
+    {
+      "tag": "treatment",
+      "patterns": [
+        "Is there a treatment for Niemann-Pick disease?",
+        "How is Niemann-Pick treated?",
+        "Treatment options for Niemann-Pick disease",
+        "What medicine is there",
+        "Treatment",
+        "Medicine",
+        "Is there a cure"
+      ],
+      "responses": [
+        "There is no cure for Niemann-Pick disease, but treatment focuses on managing symptoms and may include physical therapy, medications, and supportive care."
+      ]
+    },
+    {
+      "tag": "research",
+      "patterns": [
+        "What research is being done on Niemann-Pick?",
+        "Are there any clinical trials for Niemann-Pick disease?",
+        "Latest research on Niemann-Pick disease",
+        "Research"
+      ],
+      "responses": [
+        "Ongoing research for Niemann-Pick disease includes gene therapy, enzyme replacement therapy, and clinical trials for new medications. You can find more details on the NIH website or clinicaltrials.gov."
+      ]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "Where can I find support for Niemann-Pick disease?",
+        "Support groups for Niemann-Pick",
+        "Resources for families affected by Niemann-Pick"
+      ],
+      "responses": [
+        "Support for Niemann-Pick disease can be found through organizations like the National Niemann-Pick Disease Foundation (NNPDF) and Global Genes. They offer resources, support groups, and information."
+      ]
+    },
+    {
+      "tag": "genetics",
+      "patterns": [
+        "How is Niemann-Pick disease inherited?",
+        "Is Niemann-Pick genetic?",
+        "Genetic information about Niemann-Pick disease",
+        "Genetics",
+        "Hereditary",
+        "How is Niemann-Pick passed down?"
+      ],
+      "responses": [
+        "Niemann-Pick disease is inherited in an autosomal recessive manner, meaning both parents must carry and pass on a copy of the mutated gene for a child to be affected."
+      ]
+    }
+  ]
+}
